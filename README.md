@@ -1,3 +1,9 @@
+# NOTE: This repo has been replaced by [ntia-conformance-checker](https://github.com/spdx/ntia-conformance-checker).
+
+Below is the original README:
+
+-----------------
+
 # Python library to parse, validate and create SPDX documents
 
 | Linux | macOS | Windows |
